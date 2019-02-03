@@ -1,8 +1,76 @@
-.MyColor{
-    color:blue;
-    
-    font-size:200%;
-    
-    font-family: cursive;
-}
 
+    *{
+
+        padding: 0;
+        margin: 0;
+    }
+
+    .MyColor{
+        color:blue;
+
+        font-size:200%;
+
+        font-family: cursive;
+    }
+
+
+    .MyColor3
+
+                        {
+
+                            color:coral;
+
+                            font-family: cursive;
+
+                        }
+
+    .MyColor4
+
+                        {
+
+                            font-size: 200%;
+
+                        }
+
+    .a 
+    {
+         padding: 0;
+        margin: 0;
+        height: 100%;
+        width: 100%;
+        background-image:url(http://sobojarilu.ga/32363050182c6d738451c43ac52a543b-aHR0cHM6Ly9nYW1pbmctdG9vbHMuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzA4L2RvdGEtMi13YWxscGFwZXIuanBn);
+
+    }
+
+    .b{
+
+        color: blue;
+        padding-left: 20px;
+        margin-left: 20px;
+        
+    }
+
+    .c{
+
+        color:  white;
+        padding-left: 20px;
+        margin-left: 20px;
+       
+    }
+
+    .d{
+
+        color: orange;
+        padding-left: 20px;
+        margin-left: 20px;
+        
+    }
+
+
+
+    #text{
+        height:120%;
+        width:100%; 
+        background-image: url(http://elitefon.ru/pic/201211/2560x1600/elitefon.ru-15755.jpg);
+
+    }
