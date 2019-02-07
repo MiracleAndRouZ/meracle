@@ -1,0 +1,51 @@
+
+.menu{
+    
+    width: 100%;
+    height: 10%;
+    background:rgba(35, 190, 188,0.10);
+   
+    
+   }
+
+.menu:hover{
+    
+    background:red;
+    
+    }
+
+#menu_text{
+    
+    text-align: center;
+}
+
+#img_left{
+    position: fixed;
+    background-image: url(img6.jpeg);
+    width: 350px;
+    height: 465px;
+    left: 0%;
+    top: 30%;
+    
+   
+    
+    
+}
+
+#img_right{
+    position: fixed;
+    background-image: url(img6-2.jpg);
+    width: 350px;
+    height: 465px;
+    right: 0%;
+    top: 50%;
+    
+    
+    
+}
+
+
+
+    
+
+
